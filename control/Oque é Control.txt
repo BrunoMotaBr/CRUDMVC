@@ -1,0 +1,1 @@
+Onde fica as classes de comunicação entre o VIEW e o MODEL
