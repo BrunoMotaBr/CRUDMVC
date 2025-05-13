@@ -63,11 +63,7 @@ perl
 Copiar
 Editar
 http://localhost/nome-do-projeto/
-📷 Demonstração
-[Adicione aqui screenshots ou GIFs do funcionamento do projeto]
 
-📝 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 💻 Feito por Seu Nome
 
